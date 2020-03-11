@@ -1,0 +1,13 @@
+server:
+  port: 8769
+spring:
+  application:  # 服务模块名称
+    name: admin-server
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    health:
+      show-details: ALWAYS
