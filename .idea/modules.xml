@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/admin-client/admin-client.iml" filepath="$PROJECT_DIR$/spring-boot-admin/admin-client/admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/spring-boot-admin/admin-server/admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/spring-boot-eureka/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/spring-boot-eureka/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/spring-boot-admin.iml" filepath="$PROJECT_DIR$/spring-boot-admin/spring-boot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-eureka/spring-boot-eureka.iml" filepath="$PROJECT_DIR$/spring-boot-eureka/spring-boot-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-examples.iml" filepath="$PROJECT_DIR$/spring-boot-examples.iml" />
+    </modules>
+  </component>
+</project>
